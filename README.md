@@ -1,4 +1,4 @@
-# Willie Breaux – Applied AI / Computer Vision Portfolio
+# Willie Breaux - Applied AI / Computer Vision Portfolio
 This repository contains all of my completed work for **ITAI 1378 – Computer Vision** at Houston City College.  
 It includes my assignments, labs, midterm project, and final project completed during Fall 2025.
 
