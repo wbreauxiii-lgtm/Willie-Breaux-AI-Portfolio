@@ -1,4 +1,4 @@
-# Final Project – Emotion Recognition System
+# Final Project - Emotion Recognition System
 
 This folder contains the Jupyter notebook, presentation, sample images, and project files.
 --------------------------------------------------------------------------------------------
