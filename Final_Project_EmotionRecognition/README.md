@@ -2,7 +2,7 @@
 
 This folder contains the Jupyter notebook, presentation, sample images, and project files.
 
-### 🎥 Final Project Demo Video
+### Final Project Demo Video
 The final project video is hosted on Google Drive:
 https://docs.google.com/presentation/d/1Alm_CIOpI4AwoQyntHQs_xwxqTUtVD-a/edit?usp=drive_link&ouid=109637701191640195004&rtpof=true&sd=true
 
