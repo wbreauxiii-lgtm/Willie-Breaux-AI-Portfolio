@@ -1,7 +1,11 @@
 # Final Project – Emotion Recognition System
 
 This folder contains the Jupyter notebook, presentation, sample images, and project files.
+--------------------------------------------------------------------------------------------
+
 GitHub repository: https://github.com/wbreauxiii-lgtm/cv-project-Emotion-Recognition-from-Faces 
+Colab code: https://colab.research.google.com/drive/1HRVi7maj8o_MRhDOuK7gi4vRaUvEti2z?usp=drive_link
+Colab demo: https://colab.research.google.com/drive/1sn5qxKLSeyeBk1Nit18NolbndvZJJQFT?usp=drive_link
 
 ### Final Project Demo Video
 The final project video is hosted on Google Drive:
